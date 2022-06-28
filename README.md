@@ -1,5 +1,6 @@
-## Olá, me chamo Pedro mas alguns me conhecem como Sync.
+## 
 
+<h3>Olá, meu nome é Pedro mas alguns me conhecem como sync.</h3>
 <p>
   🧔 I'm 18 and a front-end lover, also i can only survive with coffee... i think<br/>
 </p>
