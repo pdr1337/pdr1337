@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Silva, mais conhecido como Sync
+## Olá, me chamo Pedro mas alguns me conhecem como Sync.
 
 <p>
   🧔 I'm 18 and a front-end lover, also i can only survive with coffee... i think<br/>
