@@ -1,16 +1,20 @@
-# 
-<img src="https://media.discordapp.net/attachments/962052883510075512/965265927996342323/banner.png?width=1080&height=138">
-<h3>Sobre mim</h3>
+<p>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Yarn-0079BF?style=flat-square&logo=Yarn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+</p>
 
-Meu nome é <b>Pedro</b>, sempre gostei de programar, estudar e trabalhar com isso, hoje faço projetos de Front-end e estudo para ser um desenvolvedor fullstack
 
-<h3>Trabalho ou já trabalhei com</h3>
 
-| HTML5 | CSS3 | JS |
-| --------- | --------- | --------- |
-| <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> | <img src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" width="70vw" height="70vh"> |
-#
+<h3>Hey! My name is Pedro!</h3><br/>
+<p>
+  🧔 I'm 18 and a front-end lover, also i can only survive with coffee... i think<br/>>
+</p>
 
-- São Paulo, Brasil
-- Meu Discord: <b>pdr#9710</b>
-#
+<details>
+  <summary>My github Stats</summary><br/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=synterrr&show_icons=true&hide_border=false&line_height=20&title_color=000000&icon_color=ff0000&show_owner=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synterrr"/>
+</details>
