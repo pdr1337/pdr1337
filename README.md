@@ -1,8 +1,8 @@
 
 
-<h3>Olá, meu nome é Pedro mas alguns me conhecem como sync.</h3>
+<h4>SYNC</h4>
 <p>
-  🧔 I'm 18 and a front-end lover, also i can only survive with coffee... i think<br/>
+  Olá meu nome é Pedro mas alguns me chamam de Sync. Estou sempre estudando e me aperfeiçoando para criar sites melhores e modernos. <br/>
 </p>
 
 <div style="display: inline_block"><br>
