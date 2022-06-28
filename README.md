@@ -1,4 +1,4 @@
-## 
+
 
 <h3>Olá, meu nome é Pedro mas alguns me conhecem como sync.</h3>
 <p>
@@ -11,5 +11,5 @@
   <img align="center" alt="sync_css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-##
+
  
